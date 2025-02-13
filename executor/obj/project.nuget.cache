@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nKlSU9Nj9rU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chicken\\source\\repos\\executor\\executor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chicken\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512"
+  ],
+  "logs": []
+}
